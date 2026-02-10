@@ -4,8 +4,6 @@
 
 It is designed for **students, professionals, and teams** to keep track of any type of form — including job applications, surveys, registrations, event forms, and academic submissions — ensuring nothing gets missed.
 
----
-
 ## 🚀 Tech Stack
 
 * **Frontend:** React + Vite
@@ -13,16 +11,12 @@ It is designed for **students, professionals, and teams** to keep track of any t
 * **Database:** MongoDB
 * **Authentication:** JWT
 
----
-
 ## ⚡ Quick Start
 
 ### Prerequisites
 
 * Node.js 18+
 * MongoDB running locally (or MongoDB Atlas)
-
----
 
 ### 1. Setup Backend
 
@@ -69,8 +63,6 @@ Configure the following:
 * **MONGODB_URI** — Your MongoDB connection string
 * **JWT_SECRET** — Secret key for JWT authentication
 
----
-
 ## ✨ Features
 
 * ⚡ One-click bookmarklet to save Google Forms
@@ -81,12 +73,10 @@ Configure the following:
 * 📉 Analytics dashboard for insights
 * 🌙 Dark mode support
 
----
-
 ## 📁 Project Structure
 
 ```
-FormTrack/
+FormSnap/
 ├── client/          # React frontend
 │   ├── src/
 │   │   ├── components/
@@ -102,8 +92,6 @@ FormTrack/
     └── server.js
 ```
 
----
-
 ## 🎯 Use Cases
 
 FormSnap can be used to track:
@@ -114,8 +102,6 @@ FormSnap can be used to track:
 * Academic forms
 * Contest entries
 * Any recurring Google Form workflow
-
----
 
 ## 📌 Goal
 
